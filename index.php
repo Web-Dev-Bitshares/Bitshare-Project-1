@@ -1,8 +1,3 @@
-<html>
-  
-  nakikita ba?? hello
-  helooooooooooo
-</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
